@@ -3,14 +3,14 @@
 Welcome to the Simple ATM Machine Program! This Python project offers a basic ATM machine simulation, perfect for beginners to practice and improve their programming skills
 
 ## Features :
-1- PIN verification  
-3- Money withdrawal  
-4- Money deposit  
+- PIN verification  
+- Money withdrawal  
+- Money deposit  
 
 # Getting Started :
-1 - Clone the repository.  
-2 - Run ATM_Project.py in your Python environment.  
-3 - Follow on-screen prompts to interact with the ATM system.  
+1. Clone the repository.  
+2. Run ATM_Project.py in your Python environment.  
+3. Follow on-screen prompts to interact with the ATM system.  
 
 # Contribution : 
 
